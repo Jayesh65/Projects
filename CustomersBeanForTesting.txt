@@ -1,0 +1,45 @@
+{	
+	"custID": 1,
+	"custName": "Harvey",
+	"custAddress": "A1/ 301, West Side, New York - 1000",
+	"custPhoneNo": 6476382829,
+	"accounts":[
+		{
+			"accountID": 10001,
+			"ifsc": "SB0004665",
+			"accountType": "Individual",
+			"savOrCur": "Savings",
+			"accountBalance": 900000
+		},
+	    {
+			"accountID": 10002,
+			"ifsc": "SB0004665",
+			"accountType": "Individual",
+			"savOrCur": "Current",
+			"accountBalance": 100000
+		}]
+}
+
+{
+        "custID": 2,
+        "custName": "Donna",
+        "custAddress": "A1/ 301, West Side, New York - 1000",
+        "custPhoneNo": 6476382828,
+        "accounts": [
+            {
+                "accountID": 10003,
+                "ifsc": "SB0004665",
+                "accountType": "Individual",
+                "savOrCur": "Savings",
+                "accountBalance": 700000
+            },
+            {
+                "accountID": 10004,
+                "ifsc": "SB0004665",
+                "accountType": "Individual",
+                "savOrCur": "Current",
+                "accountBalance": 300000
+            }
+        ]
+}
+
